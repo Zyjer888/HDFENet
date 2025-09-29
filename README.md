@@ -7,7 +7,7 @@ confusion in dense background scenarios. Experimental validation on a self-const
 optimization in counting accuracy. This method provides an efficient solution for precise maize tassels counting in complex agricultural environments, exhibiting substantial application potential.
 ![Illustration of the proposed HDFENet. In this architecture, the RGB image is first passed through the encoder to extract features, followed by adaptive high-frequency feature enhancement. It then captures the fine spatial distribution and subsequently inputs it into the regression head for density map generation.](model.png)
 
-## The division of the training set and test set can be found in train.txt and test.txt
+## :blush::blush::blush:The division of the training set and test set can be found in FMTC_split_train.txt and FMTC_split_test.txt:blush::blush::blush:
 
 
 ## The rest of the code we will open after the article hired
