@@ -10,5 +10,5 @@ optimization in counting accuracy. This method provides an efficient solution fo
 ## :blush::blush::blush:The division of the training set and test set can be found in FMTC_split_train.txt and FMTC_split_test.txt:blush::blush::blush:
 
 
-## The rest of the code we will open after the article hired
+
 
